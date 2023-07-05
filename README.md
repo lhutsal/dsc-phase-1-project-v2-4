@@ -3,6 +3,8 @@
 ## Overview
 This is a data analysis to determine what movies are currently successful at the box office and what attributes could be used to create movies in the future that are successful.<br>
 Link to Notebook: https://github.com/lhutsal/dsc-phase-1-project-v2-4/blob/master/student.ipynb
+<br>
+Link to Presentation: https://github.com/lhutsal/dsc-phase-1-project-v2-4/blob/master/presentation.pdf
 
 ## Business Understanding
 Microsoft is looking to create a new movie studio. I am tasked with finding out what is currently doing well at the box office and translating that analysis into actionable steps for the head of the new studio to decide what types of films to create.
