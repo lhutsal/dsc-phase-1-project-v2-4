@@ -2,7 +2,7 @@
 
 ## Overview
 This is a data analysis to determine what movies are currently successful at the box office and what attributes could be used to create movies in the future that are successful.<br>
-Link to Notebook: https://github.com/lhutsal/dsc-phase-1-project-v2-4/blob/master/student.ipynb
+Link to Notebook: https://github.com/lhutsal/dsc-phase-1-project-v2-4/blob/master/MovieData.ipynb
 <br>
 Link to Presentation: https://github.com/lhutsal/dsc-phase-1-project-v2-4/blob/master/presentation.pdf
 
